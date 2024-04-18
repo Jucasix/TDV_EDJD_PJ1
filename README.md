@@ -9,8 +9,8 @@ Este projeto teve por base a analise ao código de um jogo com base em Monogame 
 
 #Prjeto realizado por:
 
-29580 - João Carvalho
-29579 - Roberto Alvarenga
+*29580 - João Carvalho
+*29579 - Roberto Alvarenga
 
 
 
