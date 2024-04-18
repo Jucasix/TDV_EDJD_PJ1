@@ -40,10 +40,8 @@ Após investigação ao código e ao jogo, tecemos os seguintes comentários.
 			//Everytime the player reacches the milestone point, the speed increases by 0.05. It then adds 2000 to the next milestone points, preventing it from constantly increasing
             //if (score >= milestonePoints)
             //{
-            //    gameSpeedIncrease += 0.05f;
-                
+            //    gameSpeedIncrease += 0.05f;                
             //    milestonePoints += 2000;
-
 
 
 
@@ -66,13 +64,13 @@ Após investigação ao código e ao jogo, tecemos os seguintes comentários.
 
 - **Menu:**
 	
-		- A criação de uma tela inicial que mostrasse ao jogador como se usa o menu e se joga, avançando para o menu com o click no enter, e também qual o objetivo do jogo.
+	- A criação de uma tela inicial que mostrasse ao jogador como se usa o menu e se joga, avançando para o menu com o click no enter, e também qual o objetivo do jogo.
 		
 - **Jogabilidade:**	
 
-		- Tornar a experiência mais apelativa melhorando o modo como o jogo faz a aceleração, acrescentar uma opção de save, quando perdesse o retry seria começar no inicio, a criação de registo de scores, para incentivar ao uso com a vontade chegar ao topo da tabela e incluir outros tipos de obstáculos.
+	- Tornar a experiência mais apelativa melhorando o modo como o jogo faz a aceleração, acrescentar uma opção de save, quando perdesse o retry seria começar no inicio, a criação de registo de scores, para incentivar ao uso com a vontade chegar ao topo da tabela e incluir outros tipos de obstáculos.
 
-2.  **Código:**
+2.  **Analise ao código:**
 
 	- **Código:**
 	
