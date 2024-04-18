@@ -9,9 +9,10 @@ Este projeto teve por base a analise ao código de um jogo com base em Monogame 
 
 #Prjeto realizado por:
 
+-29579 - Roberto Alvarenga
+
 -29580 - João Carvalho
 
--29579 - Roberto Alvarenga
 
 
 
@@ -23,7 +24,7 @@ Após investigação ao código e ao jogo, tecemos os seguintes comentários.
 
 - **Menu:**
 
-	- A sua construção está adaptada para o uso do rato, mas apenas se pode clicar em determinadas partes dos botões para ativar as funcionalidades e em parte alguma isso é mencionado, levando a que se julgue inicialmente que o jogo pode não estar a funcionar corretamente.
+	- Os botões estão desalinahdos, apear da sua construção estar adaptada para o uso do rato, mas apenas se pode clicar em determinadas partes dos botões para ativar as funcionalidades e em parte alguma isso é mencionado, levando a que se julgue inicialmente que o jogo pode não estar a funcionar corretamente e contem erros ortográficos como "Click to Reply" que devia ser "Click to Replay".
 
 - **Jogabilidade:**
 
@@ -65,7 +66,7 @@ Após investigação ao código e ao jogo, tecemos os seguintes comentários.
 
 - **Menu:**
 	
-	- A criação de uma tela inicial que mostrasse ao jogador como se usa o menu e se joga, avançando para o menu com o click no enter, e também qual o objetivo do jogo.
+	- A criação de uma tela inicial que mostrasse ao jogador como se usa o menu e se joga, avançando para o menu com o click no enter, e também qual o objetivo do jogo, correção da ortográfia.
 		
 - **Jogabilidade:**	
 
