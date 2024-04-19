@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XtrXzMwaMqVsPDsGXEOrocZlML+Yj1g8LQIwmCdhsEESguOjLZ3GCnp2wpEJKkUPoFyxjYMg8YYAj5q3kZBhqQ==",
+  "dgSpecHash": "d25OUKwSyI+zFakTUk2J5dCsubPMPeiz/5fvijAEGsfMRGneEoLTXeFYvfkZ6QDUwqF2PJ/U2OVwu6xMNfKSAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\utilizador\\OneDrive - Instituto Politécnico do Cávado e do Ave\\01_Disciplinas\\TDV\\VS\\TDV_PJ1\\BatmanGame\\BatmanGame\\BatmanGame.csproj",
+  "projectFilePath": "C:\\Users\\utilizador\\OneDrive - Instituto Politécnico do Cávado e do Ave\\Documents\\GitHub\\TDV_EDJD_PJ1\\BatmanGame\\BatmanGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utilizador\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\utilizador\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
