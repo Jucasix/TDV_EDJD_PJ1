@@ -1,13 +1,13 @@
 "# TDV_EDJD_PJ1" 
 
 
-#Introdução:
+# Introdução:
 
 Este projeto teve por base a analise ao código de um jogo com base em Monogame e encontrado em repositório publico no Github.
 
 
 
-#Prjeto realizado por:
+# Projeto realizado por:
 
 -29579 - Roberto Alvarenga
 
@@ -16,7 +16,7 @@ Este projeto teve por base a analise ao código de um jogo com base em Monogame 
 
 
 
-#Analise: 
+# Análise: 
 
 Após investigação ao código e ao jogo, tecemos os seguintes comentários.
 
@@ -24,7 +24,7 @@ Após investigação ao código e ao jogo, tecemos os seguintes comentários.
 
 - **Menu:**
 
-	- Os botões estão desalinahdos, apesar da sua construção estar adaptada para o uso do rato, mas apenas se pode clicar em determinadas partes dos botões para ativar as funcionalidades e em parte alguma isso é mencionado, levando a que se julgue inicialmente que o jogo pode não estar a funcionar de qualquer modo.
+	- Os botões estão desalinhados, apesar da sua construção estar adaptada para o uso do rato, mas apenas se pode clicar em determinadas partes dos botões para ativar as funcionalidades e em parte alguma isso é mencionado, levando a que se julgue inicialmente que o jogo pode não estar a funcionar de qualquer modo.
 
 - **Jogabilidade:**
 
