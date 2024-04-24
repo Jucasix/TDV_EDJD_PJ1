@@ -4,19 +4,19 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/backgroundMusic.mp3</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/File.spritefont</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/menuFont.spritefont</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/batmanspritesheet.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/idle.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/road.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/run0.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/run1.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/run2.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/run3.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/running.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/spike.png</File>
-    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/01_Disciplinas/TDV/VS/TDV_PJ1/BatmanGame/BatmanGame/Content/Sprites/woodenSpike.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/backgroundMusic.mp3</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/File.spritefont</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/menuFont.spritefont</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/batmanspritesheet.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/idle.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/road.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/run0.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/run1.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/run2.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/run3.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/running.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/spike.png</File>
+    <File>C:/Users/utilizador/OneDrive - Instituto Politécnico do Cávado e do Ave/Documents/GitHub/TDV_EDJD_PJ1/BatmanGame/Content/Sprites/woodenSpike.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
