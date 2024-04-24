@@ -63,7 +63,7 @@ Após investigação ao código e ao jogo, tecemos os seguintes comentários.
 
 
 
-#Melhorias:
+# Melhorias:
 
 1. **Experiência de jogo:**
 
@@ -90,7 +90,7 @@ Após investigação ao código e ao jogo, tecemos os seguintes comentários.
 		- Sobre as classes, não temos muito acrescentar, dado que se trata de um jogo simples.
 
 
-#Conclusão
+# Conclusão
 
 - Com este projeto de investigação e analise sobre o trabalho de terceiros, aprendemos em primeiro a grande importância de rever o nosso trabalho e até pedir a sua revisão por outras partes que possam tecer comentários valiosos para a melhoria do mesmo. Permitiu-nos também verificar que os jogos feitos na versão 3.7 não funcionam na versão 3.8 que estamos a usar. Também nos permitiu analisar outros projetos baseados em Monogame e verificar conhecimentos já adquiridos em contexto de aula e como os mesmo são aplicados em outros trabalhos e não só no que estamos a usar como exemplo em aula. O facto de este trabalho ser baseado na pesquisa de um trabalho que tivesse num repositório publico, deu-nos a oportunidade de verificar vários trabalhos e de adquirir maior conhecimento e ideias para o próximo trabalho.  
 
